@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /. * ug+o 777
+ls -lan
